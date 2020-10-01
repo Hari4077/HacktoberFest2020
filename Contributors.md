@@ -87,3 +87,7 @@ Name: [Sagalpreet Singh](https://github.com/sagalpreet)<br/>
 Place: India<br/>
 About: Passionate about open-source | Competitive Coder<br/>
 <br/>
+Name: [Nikhila-2001](https://github.com/NIKHILA-2001)
+Place: India 
+Bio: Student
+<br>
